@@ -3,7 +3,7 @@
 ## Navigate to the Project Directory
 
 ```bash
-cd your-project-directory
+cd problem_2/currency-swap
 ```
 
 ## Install Dependencies
